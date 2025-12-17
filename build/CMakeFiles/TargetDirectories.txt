@@ -1,0 +1,3 @@
+C:/prog/GIF_ascii/build/CMakeFiles/app.dir
+C:/prog/GIF_ascii/build/CMakeFiles/edit_cache.dir
+C:/prog/GIF_ascii/build/CMakeFiles/rebuild_cache.dir
